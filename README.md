@@ -1,13 +1,6 @@
 <h2 align="left">Hi 👋! My name is Mounika and I'm currently pursuing Integrated M.Tech CSE at VIT-AP University.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhupanimounika22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhupanimounika22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+ 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif"  />
 
 ###
@@ -48,6 +41,14 @@
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhupanimounika22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhupanimounika22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Bhupanimounika22/Bhupanimounika22/output/snake.svg" alt="Snake animation" />
