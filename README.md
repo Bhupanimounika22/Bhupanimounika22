@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Mounika and I'm currently pursuing Integrated M.Tech CSE at VIT-AP University.</h2>
+<h2 align="left">Hey there! I’m Mounika 👩‍💻 </h2>
+<hr>
 
  
 <img align="right" height="150" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif"  />
