@@ -49,6 +49,4 @@
 </div>
 
 ###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Bhupanimounika22/Bhupanimounika22/output/snake.svg" alt="Snake animation" />
+ 
