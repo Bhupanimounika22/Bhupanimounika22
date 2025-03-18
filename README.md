@@ -1,6 +1,14 @@
+
+
 <h2 align="left">Hey there! I’m Mounika 👩‍💻 a tech geek who loves to build and innovate.</h2>
  
 <p>I'm an undergraduate studying Integrated Mtech Cse at VITAP. I can quickly pick up any new skills and adapt to any technologies </p>
+
+🔹 Explore – "The world doesn’t wait. Go out, break limits, and own every adventure."
+
+🔹 Learn – "Knowledge isn’t given, it’s taken. Stay hungry, stay ruthless."
+
+🔹 Work – "Success bows to no one. Hustle hard, dominate harder."
  
 <img align="right" height="150" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif"  />
 
