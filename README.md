@@ -11,22 +11,7 @@ I can quickly pick up any new skills and adapt to any technologies.
 
 <img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" height="120" />
 
----
-
-### 🛠️ Have played around with 🤓🥰
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker" />
-</div>
-
----
+  
 
 ### 📬 Connect with me
 
