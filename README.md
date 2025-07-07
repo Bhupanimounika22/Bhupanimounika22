@@ -8,9 +8,7 @@ I can quickly pick up any new skills and adapt to any technologies.
 <p><i>🔹 Explore – "The world doesn’t wait. Go out, break limits, and own every adventure."</i></p>
 <p><i>🔹 Learn – "Knowledge isn’t given, it’s taken. Stay hungry, stay ruthless."</i></p>
 <p><i>🔹 Work – "Success bows to no one. Hustle hard, dominate harder."</i></p>
-
-<img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" height="120" />
-
+ 
   
 
 ### 📬 Connect with me
