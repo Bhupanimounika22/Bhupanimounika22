@@ -1,7 +1,8 @@
 
 
 <h2 align="left">Hey there! I’m Mounika 👩‍💻 a tech geek who loves to build and innovate.</h2>
- 
+
+
 <p>I'm an  Postgraduate studying Integrated Mtech Cse at VITAP. I can quickly pick up any new skills and adapt to any technologies </p>
 
 🔹 Explore – "The world doesn’t wait. Go out, break limits, and own every adventure."
