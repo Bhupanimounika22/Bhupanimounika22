@@ -4,7 +4,7 @@
 I'm a Postgraduate studying Integrated M.Tech CSE at VIT-AP.<br>
 I can quickly pick up any new skills and adapt to any technologies.
 </p>
-<pre>I'm Mounika—Meet the Girl Who Codes, Builds, and Breaks Barriers She’s not just curious—she’s code-obsessed. From debugging lines of JavaScript at midnight to exploring the latest in AI, she's always in tech mode. Whether it’s building full-stack apps, designing slick UI interfaces, or diving deep into neural networks, she thrives on logic, creativity, and caffeine. She’s the girl who’d rather get lost in GitHub than gossip, who treats IDEs like diaries, and whose playlists include TED Talks and tech podcasts. Innovation isn’t just a word to her—it’s a lifestyle.</pre>
+<p>Mounika-Meet the Girl Who Codes, Builds, and Breaks Barriers She’s not just curious—she’s code-obsessed. From debugging lines of JavaScript at midnight to exploring the latest in AI, she's always in tech mode. Whether it’s building full-stack apps, designing slick UI interfaces, or diving deep into neural networks, she thrives on logic, creativity, and caffeine. She’s the girl who’d rather get lost in GitHub than gossip, who treats IDEs like diaries, and whose playlists include TED Talks and tech podcasts. Innovation isn’t just a word to her—it’s a lifestyle.</p>
 
 <p><i>🔹 Explore – "The world doesn’t wait. Go out, break limits, and own every adventure."</i></p>
 <p><i>🔹 Learn – "Knowledge isn’t given, it’s taken. Stay hungry, stay ruthless."</i></p>
